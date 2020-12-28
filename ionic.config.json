@@ -1,0 +1,7 @@
+{
+  "name": "todo-list",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
